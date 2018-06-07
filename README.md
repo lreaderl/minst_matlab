@@ -6,3 +6,5 @@
 ## Run
 * For train: run ```Train(path_to_train_images, path_to_train_labels, path_to_test_images, path_to_test_labels);```
 * For test: run ```Test(imgPath, modelPath);```
+## Grade
+* Now, the best score on svm method is 99.43%, finding no where to improve without neural network
